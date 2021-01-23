@@ -1,5 +1,5 @@
 <template>
-  <header class=" shadow-md bg-gray-800 p-3 text-gray-200 md:text-right">
+  <header class=" shadow-xl bg-gray-800 p-3 text-gray-200 md:text-right">
     <a
       href="/"
       target="_blank"
